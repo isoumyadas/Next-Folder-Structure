@@ -1,0 +1,24 @@
+A app to publish to public. 
+Team of 2-6 people
+Way more pages than normal project
+
+
+// In app 
+
+-> The (auth) is where all the folders and files that are used for auth.
+-> Same for (dashboard) (marketing)
+
+// In server
+
+-> All the auth, db, services should be in here.
+-> ALl backend stuff
+
+// In features
+
+-> User interacted peices of UI should be in this folder.
+-> rsvp feature is a feature and all the stuffs inside that folder that comes with it.
+
+
+// ==
+
+This could scale as real project
